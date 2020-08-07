@@ -1,0 +1,41 @@
+{
+  "name": "react-cli-mine",
+  "version": "1.0.0",
+  "private": false,
+  "description": "This is a simple cli about react!",
+  "main": "src/index.ts",
+  "bin": {
+    "rcm": "bin/react-cli-mine.js"
+  },
+  "scripts": {
+    "start": "start cmd /k && npm run dev",
+    "dev": "tsc -p tsconfig.json -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "Cli",
+    "TypeScript",
+    "ES6+"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/biaov/react-cli-mine.git"
+  },
+  "author": "biaov <biaov@qq.vom>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "commander": "^6.0.0",
+    "download-git-repo": "^3.0.2",
+    "execa": "^4.0.3",
+    "handlebars": "^4.7.6",
+    "inquirer": "^7.3.3",
+    "log-symbols": "^4.0.0",
+    "module-alias": "^2.2.2",
+    "ora": "^4.0.5"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.27"
+  }
+}
