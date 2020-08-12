@@ -3,7 +3,7 @@ import { version } from "@/../package.json";
 import { Create, Arguments } from "./actions";
 // 定义命令带参数
 // options重写
-program.usage("[commands] [options]").version(version, "-v, --version", "输入版本号").helpOption("-h, --help", "输出所有命令");
+program.usage("[commands] [options]").version(version, "-v, --version", "输出版本号").helpOption("-h, --help", "输出所有命令");
 
 // 定义命令
 program.command("create [name]").description("创建初始化项目").action(Create); // 注册命令的回调
