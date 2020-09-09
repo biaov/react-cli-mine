@@ -1,17 +1,13 @@
 /**
- * 接口类型
- * @author biaov<biaov@qq.com>
+ * @file 接口类型文件
  */
 
-/**
- * 所有动态对象
- */
+// 所有动态对象
 export interface DynamicType {
   [arg: string]: any;
 }
-/**
- * 日志 API
- */
+
+// 日志 API
 export interface LogAags {
   text: string;
   prefix?: string;

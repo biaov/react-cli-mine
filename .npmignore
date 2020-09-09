@@ -1,5 +1,6 @@
 # 忽略目录
 src/
+dist/
 
 # 忽略指定文件
 node_modules
@@ -7,3 +8,4 @@ node_modules
 # 编辑器目录和文件
 .vscode
 .gitignore
+.git

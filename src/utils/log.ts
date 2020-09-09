@@ -1,6 +1,7 @@
 /**
- * 日志打印
+ * @file 日志打印文件
  */
+
 import { red, green } from "chalk";
 import { error, success } from "log-symbols"; // 显示出 √ 或 × 等的图标
 import { DynamicType, LogAags } from "./interface";

@@ -1,3 +1,7 @@
+/**
+ * @file 需要定义的模块化文件
+ */
+
 declare module "module-alias"; // 定义 module-alias 模块
 declare module "download-git-repo"; // 定义 download-git-repo 模块
 declare module "inquirer"; // 定义 inquirer 模块

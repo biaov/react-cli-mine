@@ -1,6 +1,7 @@
 /**
- * 全局方法
+ * @file 全局方法文件
  */
+
 import fs from "fs";
 import { resolve } from "path";
 import { DynamicType } from "./interface";

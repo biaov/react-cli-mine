@@ -1,6 +1,8 @@
 /**
- * 工具类
+ * @file 工具类入口文件
+ * @author biaov<biaov@qq.com>
  */
+
 import addAlias from "./alias"; // 别名
 addAlias();
 /// <reference path="./module.d.ts" />

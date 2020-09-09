@@ -1,6 +1,6 @@
 {
   "name": "react-cli-mine",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "private": false,
   "description": "This is a simple cli about react!",
   "main": "src/index.ts",
@@ -10,6 +10,7 @@
   "scripts": {
     "start": "start cmd /k && npm run dev",
     "dev": "tsc -p tsconfig.json -w",
+    "build": "gulp build -f gulpfile.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -36,6 +37,9 @@
     "ora": "^4.0.5"
   },
   "devDependencies": {
-    "@types/node": "^14.0.27"
+    "@types/node": "^14.0.27",
+    "del": "^5.1.0",
+    "gulp": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
   }
 }

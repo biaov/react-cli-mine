@@ -2,7 +2,7 @@
 
 * 一个关于初始化 React 项目的脚手架。
 
-<h2 style="text-align:center;"><a href="https://github.com/biaov/react-cli-mine"><img src="https://img.shields.io/badge/npm-1.0.0-blue" /></a></h2>
+<h2 style="text-align:center;"><a href="https://github.com/biaov/react-cli-mine"><img src="https://img.shields.io/badge/npm-1.0.2-blue" /></a></h2>
 
 ## 安装
 

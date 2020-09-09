@@ -1,6 +1,7 @@
 /**
- * 命令的 actions
+ * @file 命令的 actions
  */
+
 import { program } from "commander"; // 自动解析命令和参数
 import { prompt, Separator } from "inquirer"; // 用于和用户进行交互
 import { yellow, red, blueBright, cyanBright } from "chalk"; // 添加字体颜色
@@ -157,7 +158,7 @@ export const DownLibrary: Function = (args: Array<string>, name: string): void =
   const spinner = ora({ text: "正在下载模板中...", color: "yellow" });
   spinner.start();
   let branch: string = "";
-  // 是否不是 []，[] 表示 master 分支
+  // 是否不是 [], [] 表示 master 分支
   if (args.length > 0) {
     cssPres.forEach((elem: string): void => {
       args.includes(elem) && (branch = elem.toLowerCase()); // 选择了哪个 CSS 预编译器
