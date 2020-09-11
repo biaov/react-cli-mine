@@ -44,5 +44,5 @@ rcm -v
 * 你可以使用 `-h` 或者 `--help` 选项。
 
 ```Basic
-rcm -v
+rcm -h
 ```
