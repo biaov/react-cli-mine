@@ -1,3 +1,5 @@
+<h1><font color="#f56c6c">已停止维护，最新技术和版本请移步 <a href="https://github.com/biaov/create-mine">create-mine</font></h2>
+
 # react-cli-mine
 
 * 一个关于初始化 React 项目的脚手架。
