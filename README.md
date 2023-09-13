@@ -1,8 +1,8 @@
-<h1><font color="#f56c6c">已停止维护，最新技术和版本请移步 <a href="https://github.com/biaov/create-mine">create-mine</font></h2>
+# ![停止维护](https://raw.githubusercontent.com/biaov/biaov/custom-assets/deprecated01.svg), 最新技术和版本请移步 [create-mine](https://github.com/biaov/create-mine)
 
 # react-cli-mine
 
-* 一个关于初始化 React 项目的脚手架。
+- 一个关于初始化 React 项目的脚手架。
 
 <h2 style="text-align:center;"><a href="https://github.com/biaov/react-cli-mine"><img src="https://img.shields.io/badge/npm-1.0.2-blue" /></a></h2>
 
@@ -14,7 +14,7 @@ npm i -g react-cli-mine
 
 ## 文档
 
-* [中文文档](https://github.com/biaov/react-cli-mine/blob/master/src/README.md)
+- [中文文档](https://github.com/biaov/react-cli-mine/blob/master/src/README.md)
 
 ## 使用
 
@@ -30,11 +30,11 @@ rcm -h
 
 ## 技术栈
 
-* NodeJs + TypeScript + ES6+
+- NodeJs + TypeScript + ES6+
 
 ## 注意
 
-* 请确保你的 NPM 能正常运行。
+- 请确保你的 NPM 能正常运行。
 
 ## License
 
