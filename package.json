@@ -1,6 +1,6 @@
 {
   "name": "react-cli-mine",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "private": false,
   "description": "This is a simple cli about react!",
   "main": "src/index.ts",

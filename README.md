@@ -1,10 +1,10 @@
 # ![停止维护](https://raw.githubusercontent.com/biaov/biaov/custom-assets/deprecated01.svg), 最新技术和版本请移步 [create-mine](https://github.com/biaov/create-mine)
 
-# react-cli-mine
+## react-cli-mine
 
 - 一个关于初始化 React 项目的脚手架。
 
-<h2 style="text-align:center;"><a href="https://github.com/biaov/react-cli-mine"><img src="https://img.shields.io/badge/npm-1.0.2-blue" /></a></h2>
+<h2 style="text-align:center;"><a href="https://github.com/biaov/react-cli-mine"><img src="https://img.shields.io/npm/v/react-cli-mine.svg?logo=npm" /></a></h2>
 
 ## 安装
 
