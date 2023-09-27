@@ -1,4 +1,4 @@
-# ![停止维护](https://raw.githubusercontent.com/biaov/biaov/custom-assets/deprecated01.svg), 最新技术和版本请移步 [create-mine](https://github.com/biaov/create-mine)
+# ![停止维护](https://github-statistics-biaov.vercel.app/api/generate-text-image?text=停止维护), 最新技术和版本请移步 [create-mine](https://github.com/biaov/create-mine)
 
 ## react-cli-mine
 
